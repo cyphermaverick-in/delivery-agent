@@ -1,0 +1,16 @@
+10 12
+0 0 0 0 0 0 0 0 0 0 0 0
+0 1 1 1 0 0 1 1 1 0 0 0
+0 0 0 1 0 0 0 0 1 0 0 0
+0 2 0 1 0 2 2 0 0 0 0 0
+0 2 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 1 1 1 0 0 0 0 0
+0 1 1 0 0 0 0 0 2 0 0 0
+0 0 0 0 2 2 0 0 0 0 0 0
+0 0 1 0 0 0 1 1 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0
+
+# Moving obstacle schedule format:
+# id,row,col,timestep,directions
+# Directions: U=up, D=down, L=left, R=right
+mo1,2,0,0,RRDDLLU
